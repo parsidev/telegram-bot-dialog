@@ -6,7 +6,7 @@ This libriary allows to make simple dialogs for your Telegram bots that based on
 ###Installation
 You can easy install the package using Composer:
 
-`composer require parsidev/telegram-bot-dialogs`
+`composer require parsidev/telegram-bot-dialog`
 
 Each dialog should be implemented as class that extends basic Dialog as you can see in example bellow:
 
